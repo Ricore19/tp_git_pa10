@@ -13,4 +13,6 @@
 - Yann STEPHAN,
 - Antoine ALBIN,
 - Adrien LEMAISTRE,
+- Roman CHANDLER-FRY,
 - Daniel NGUYEN.
+
