@@ -1,5 +1,7 @@
 # TP GIT PA10
 
 
-- Mathieu TUDISCO !
-- Daniel NGUYEN,
+- Mathieu TUDISCO,
+- Flore de Lasteyrie,
+- Antoine NICOLAS,
+- Daniel NGUYEN.
